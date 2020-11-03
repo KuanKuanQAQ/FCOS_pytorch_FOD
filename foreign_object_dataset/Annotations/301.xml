@@ -1,0 +1,44 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>301.jpg</filename>
+  <source>
+    <database>My Database</database>
+    <annotation>VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>NULL</flickrid>
+  </source>
+  <owner>
+    <flickrid>NULL</flickrid>
+    <name>idaneel</name>
+  </owner>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>L_stick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1365</xmin>
+      <ymin>866</ymin>
+      <xmax>1470</xmax>
+      <ymax>928</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clip_Y</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1588</xmin>
+      <ymin>807</ymin>
+      <xmax>1626</xmax>
+      <ymax>833</ymax>
+    </bndbox>
+  </object>
+</annotation>

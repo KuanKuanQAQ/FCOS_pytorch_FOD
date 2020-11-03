@@ -1,0 +1,44 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>587.jpg</filename>
+  <source>
+    <database>My Database</database>
+    <annotation>VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>NULL</flickrid>
+  </source>
+  <owner>
+    <flickrid>NULL</flickrid>
+    <name>idaneel</name>
+  </owner>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>clip_Y</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1247</xmin>
+      <ymin>1078</ymin>
+      <xmax>1312</xmax>
+      <ymax>1126</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>nail</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1728</xmin>
+      <ymin>1089</ymin>
+      <xmax>1807</xmax>
+      <ymax>1226</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,44 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>222.jpg</filename>
+  <source>
+    <database>My Database</database>
+    <annotation>VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>NULL</flickrid>
+  </source>
+  <owner>
+    <flickrid>NULL</flickrid>
+    <name>idaneel</name>
+  </owner>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>L_stick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>652</xmin>
+      <ymin>445</ymin>
+      <xmax>688</xmax>
+      <ymax>570</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>nail</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>564</xmin>
+      <ymin>725</ymin>
+      <xmax>617</xmax>
+      <ymax>782</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,44 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>40.jpg</filename>
+  <source>
+    <database>My Database</database>
+    <annotation>VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid>NULL</flickrid>
+  </source>
+  <owner>
+    <flickrid>NULL</flickrid>
+    <name>idaneel</name>
+  </owner>
+  <size>
+    <width>2560</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>clip_Y</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1846</xmin>
+      <ymin>138</ymin>
+      <xmax>1894</xmax>
+      <ymax>183</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>L_stick</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2129</xmin>
+      <ymin>556</ymin>
+      <xmax>2242</xmax>
+      <ymax>719</ymax>
+    </bndbox>
+  </object>
+</annotation>
