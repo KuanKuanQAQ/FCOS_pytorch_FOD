@@ -171,4 +171,4 @@ def detect_image(image_path, model_path, class_list):
 
 if __name__=="__main__":
     
-    detect_image("./test_images", "./checkpoint/model_100.pth", "./class4_classlist.csv")
+    detect_image("./test_images", "./checkpoint/model_79.pth", "./class4_classlist.csv")
